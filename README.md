@@ -3,7 +3,7 @@
 
 This repository contains the complete 11-slide technical and governance blueprint for deploying model-agnostic, enterprise-grade AI infrastructure. It provides a framework to integrate AI capabilities into existing enterprise software (SAP, Salesforce, MES) without sacrificing data sovereignty, security, or database integrity.
 
-📄 **[Download Full PDF Deck (Modern_Enterprise_AI_Architecture_Blueprint.pdf)](./Modern_Enterprise_AI_Architecture_Blueprint_Aalto_4.pdf)**
+📄 **[Download Full PDF Deck (Modern_Enterprise_AI_Architecture_Blueprint.pdf)](./Modern_Enterprise_AI_Architecture_Blueprint_Aalto.pdf)**
 
 ---
 
