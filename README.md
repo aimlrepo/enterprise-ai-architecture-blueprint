@@ -68,10 +68,5 @@ Defining strict organizational operational boundaries:
 Why direct writes pose an immediate risk:
 
 #### The "Draft & Verify" Workflow:
-[User Prompt (Chat)] ➔ [Agent Drafts JSON Payload] ➔ [Human Review & Confirm] ➔ [System Update (SAP/SF)]
 ---
-
-## Author & Discussion
-Maintained by **Manish**. 
-
-Open to technical feedback, enterprise architecture Q&A, and policy discussions. Feel free to open an Issue or pull request to contribute to the framework!
+Feel free to download or contribute to the framework!
